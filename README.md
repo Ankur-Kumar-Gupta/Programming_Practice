@@ -1,2 +1,2 @@
-# Programming_Practice_For_C-
+# Programming_Practice
 Sample programs for practicing C++
